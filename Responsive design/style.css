@@ -2,7 +2,6 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-                    transition:0.5s;
 }
 
 
@@ -24,8 +23,8 @@
 }
 .container *{
         transition:0.5s;
-    border:1px dotted red;
-    background-color:pink ;
+    border:1px dotted green;
+    background-color:gray ;
 
 }
 
